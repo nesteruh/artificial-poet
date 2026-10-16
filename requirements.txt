@@ -1,0 +1,6 @@
+numpy>=1.26
+matplotlib>=3.8
+cmudict>=1.0.13
+jupyter
+nbconvert>=7.0
+ipykernel

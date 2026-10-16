@@ -1,0 +1,10 @@
+{
+  "fixed_at": "2026-10-13T15:39:39Z",
+  "fixed_after": "pilot run only (GPOMDP + b_t, alpha = 1, seed 1000, 100k episodes); before tuning results and final runs",
+  "return_target": 30.0,
+  "valid_target": 0.8,
+  "smoothing_window_evals": 5,
+  "pilot": {"plateau_return": 34.51, "plateau_valid": 0.99, "initial_return": 5.02,
+            "fit": "return = 10.9 + 23.9 * valid (corr 0.98)",
+            "sample_complexity_return30": 24000, "sample_complexity_valid0.8": 24000}
+}
